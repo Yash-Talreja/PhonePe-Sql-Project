@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/phonepe-pulse-logo.png" width="520" alt="PhonePe Pulse Logo">
+<div align="center">
+  <img src="./assets/phonepe-pulse-logo.png" width="700" alt="PhonePe Pulse">
+</div>
+
+</div>
 
 # 📱 PhonePe Pulse — SQL Data Analytics Project
 
